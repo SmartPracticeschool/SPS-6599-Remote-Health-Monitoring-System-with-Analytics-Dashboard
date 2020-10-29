@@ -12,3 +12,4 @@ Remote Health Monitoring System with Analytics Dashboard
 
 8. Project file : Remote Health Monitoring System with Analytics Dashboard-report.pdf
 9. Project presentation file : Remote Health Monitoring System with Analytics Dashboard-presentation.pdf
+10. The capacity of model is 20 CUH (Capacity Unit Hour)
