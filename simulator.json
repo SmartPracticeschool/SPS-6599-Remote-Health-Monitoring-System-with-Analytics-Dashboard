@@ -1,0 +1,28 @@
+{
+  "deviceTypes": [
+    {
+      "id": "nodemcu",
+      "running": true,
+      "events": [
+        {
+          "id": "event_1",
+          "frequency": {
+            "repeat": "2",
+            "every": "minute"
+          },
+          "json": "{\n  \"temperature\": random(0, 41),\n  \"pulse\": random(0,200),\n  \"BPsystolic\": random(0,200),\n  \"BPdiastolic\": random(0,140)\n}"
+        }
+      ],
+      "devices": [
+        {
+          "id": "12345",
+          "generated": false
+        }
+      ],
+      "managed": {
+        "enabled": false
+      }
+    }
+  ],
+  "APIKey": "a-txm87v-mwdnobuwkv"
+}
