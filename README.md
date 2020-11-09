@@ -3,6 +3,7 @@ Remote Health Monitoring System with Analytics Dashboard
 
 
 1. The project is found at, https://node-red-quwva-2020-10-09.mybluemix.net/ui 
+            or try at https://node-red-bdwgh-2020-10-31.eu-gb.mybluemix.net/ui
 2. The project presentation video is found at, https://youtu.be/udwT3OkP5dg 
 3. Dataset : HMSSSSS.csv
 4. Model :  health-monitor.zip
